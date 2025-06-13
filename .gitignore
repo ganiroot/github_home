@@ -1,0 +1,6 @@
+#ignore ganesh.txt
+ganesh.txt
+#ignore jar bkp tty files
+*.jar
+*.bkp
+*.tty
