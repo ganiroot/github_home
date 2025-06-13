@@ -1,0 +1,1 @@
+Hi I am Ganesh this is my curent git directory I need to use this as a git repository
